@@ -1,9 +1,10 @@
-# Ranjana Rani | AI/ML Engineer
+# Ranjana Rani
+### AI/ML Engineer | Machine Learning Enthusiast
 **Location:** Ludhiana, Punjab  
 **Email:** kapoorranjana19@gmail.com |  
 **Links:** [LinkedIn](https://www.linkedin.com/in/ranjana-rani01) | [GitHub](https://github.com/RanjanaRani01)
 
-> **Tagline:** Building intelligent models and turning them into functional, real-world web applications.
+> Building intelligent models and turning them into functional, real-world web applications.
 
 ---
 
