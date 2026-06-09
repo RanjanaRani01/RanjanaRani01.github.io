@@ -10,7 +10,7 @@
 ## 💡 About Me
 I am an AI/ML Engineer and a Bachelor of Computer Applications (BCA) graduate (Class of 2026) from Panjab University. With a solid foundation from a 6-month intensive AI & Machine Learning training program at ANSH Infotech Company, I specialize in data preprocessing, predictive analytics, and computer vision.
 
-I don't just train models in notebooks—I love deploying them into interactive interfaces using Streamlit and Tkinter so users can interact with AI in real time.
+I don't just train models in notebooks,I love deploying them into interactive interfaces using Streamlit and Tkinter so users can interact with AI in real time.
 
 ---
 
