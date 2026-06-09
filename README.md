@@ -31,14 +31,14 @@ I don't just train models in notebooks—I love deploying them into interactive 
 * **The Problem:** Managing vehicle logging manually is slow and prone to human error.
 * **The Solution:** Developed an Automatic Number Plate Recognition (ANPR) system[span_16](start_span)[span_16](end_span). I integrated YOLOv8 object detection with OCR engines to extract license numbers and added a basic vehicle type classification layer[span_17](start_span)[span_17](end_span).
 * **Impact:** Built a live, interactive web application using Streamlit that processes static images, recorded video, and real-time webcam feeds with an optimized pipeline for speed[span_18](start_span)[span_18](end_span).
-* [🔗 View Project Code on GitHub](PASTE_YOUR_ACTUAL_YOLO_REPO_LINK_HERE)
+* [🔗 View Project Code on GitHub](https://github.com/RanjanaRani01/AI_Number_Plate_Detection_System)
 
 ### 2. Loan Prediction System (92.67% Accuracy)
 * **Core Tech:** Python, Pandas, Scikit-learn, Random Forest, Streamlit[span_19](start_span)[span_19](end_span)
 * **The Problem:** Financial institutions need quick, data-driven decisions to evaluate loan risk.
 * **The Solution:** Built an end-to-end predictive framework using a Random Forest Classifier[span_20](start_span)[span_20](end_span). Handled heavy data preprocessing and feature engineering to clean the dataset before training[span_21](start_span)[span_21](end_span).
 * **Impact:** Achieved a high accuracy of 92.67% and wrapped the model in a clean Streamlit interface for instant risk evaluation[span_22](start_span)[span_22](end_span).
-* [🔗 View Project Code on GitHub](PASTE_YOUR_ACTUAL_LOAN_REPO_LINK_HERE)
+* [🔗 View Project Code on GitHub](https://github.com/RanjanaRani01/LoanApprovalSystem)
 
 ### 3. Email Spam Detection System
 * **Core Tech:** Python, Scikit-learn, TF-IDF, Logistic Regression, Tkinter[span_23](start_span)[span_23](end_span)
